@@ -3,11 +3,11 @@
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 | Group: Group Number      |
-|-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+|--------------------------|
+| Student 1: Carter Drewes |   
+| Student 2: Michele Pham  |   
+| Student 3: Farica Mago   |   
+| Student 4: Samira Khan   |   
 
 
 **Table of Contents**
