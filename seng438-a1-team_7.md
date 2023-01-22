@@ -39,8 +39,13 @@ functional testing before this lab
 # High-level description of the exploratory testing plan
 
 By using the High Level Requirements we will briefly explore the required functionality.
-If a bug or an error is found the function will be explored further in hopes of finding 
+If a bug or an error is found, the function will be explored further in hopes of finding 
 further issues within broken functionality.
+
+Another approach to exploratory testing is to test each function in the order they appear
+on each window and manually look for bugs or faults that does not logically make sense. 
+Once a suspected bug is found, the function is used again to ensure that the bug still 
+exits.
 
 # Comparison of exploratory and manual functional testing
 
