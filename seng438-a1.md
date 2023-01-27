@@ -29,7 +29,7 @@ This lab is designed to provide students with a basic understanding of software 
 -   Familiarity with industrial defect tracking systems, processes, and practices.
 
 This lab aims to provide students with a foundational understanding of software testing so that they can apply these concepts in real-world scenarios.
-
+Round
 # Pair Testing
 In this lab, two students in each group will work together in "pair testing." This technique is a software development method in which two team members work at one keyboard to test the software application. One person will conduct the testing while the other reviews and analyzes the results. This technique can be used between a tester and developer, business analyst, or between two testers who take turns at the keyboard. This approach allows for more efficient and effective testing, as well as an opportunity for team members to learn from each other.
 
